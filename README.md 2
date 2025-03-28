@@ -1,0 +1,21 @@
+
+# Tehreem Anwar – UX Research Portfolio
+
+This is a React-based personal portfolio site styled with TailwindCSS.
+
+## Features
+- Responsive layout and smooth scroll
+- Handwritten quote and professor recommendation
+- Embedded PDF resume viewer
+- Contact form powered by Formspree
+- Clean aesthetic using serif/sans font pairing
+
+## To Deploy on Vercel
+1. [Sign up for Vercel](https://vercel.com)
+2. Connect your GitHub account
+3. Push this project to a new GitHub repo
+4. Import it on Vercel → Done!
+
+Enjoy your live UX portfolio!
+
+–– Tehreem Anwar
